@@ -1,0 +1,19 @@
+module Base
+{
+    item AstronautSuit
+    {
+        Type = Clothing,
+        DisplayName = Astronaut Suit,
+        ClothingItem = AstronautSuit,
+        BodyLocation = FullSuit,
+        Icon = NasaIcon,
+        BloodLocation = Trousers;Jumper,
+        RunSpeedModifier = 0.3,
+        ScratchDefense = 95,
+        BiteDefense = 95,
+        Insulation = 1,
+        WindResistance = 0.50,
+        FabricType = Cotton,
+        WorldStaticModel = AstronautSuit,
+    }
+}

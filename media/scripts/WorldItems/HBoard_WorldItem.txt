@@ -1,0 +1,18 @@
+module Base
+{
+        model HBoard_WorldItem
+    {
+        mesh = WorldItems/HBoard_WorldItem,
+        texture = WorldItems/HBoard,
+        scale = 1,
+    }
+ item HBoard_WorldItem
+    {
+        Weight    =    1,
+        Type    =    Normal,
+        DisplayName    =    Hover Board Prop,
+        Icon    =    SpiffoXL,
+        WorldStaticModel = HBoard_WorldItem
+    }
+
+}

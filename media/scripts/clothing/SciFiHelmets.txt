@@ -1,0 +1,19 @@
+module Base
+{
+        item ScifiHelmet01
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Generic Sci-fi Helmet 01,
+		ClothingItem = ScifiHelmet01,
+		BodyLocation = Hat,
+		Icon = HelmetCrash,
+		BloodLocation = Head,
+		CanHaveHoles = false,
+        BiteDefense = 100,
+        ScratchDefense = 100,
+        ChanceToFall = 0,
+        Insulation = 0.8,
+        WindResistance = 0.8,
+	}
+}

@@ -1,0 +1,19 @@
+module Base
+{
+        item DarthVaderHelmet
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Darth Vader Helmet,
+		ClothingItem = DarthVaderHelmet,
+		BodyLocation = Hat,
+		Icon = DVIcon,
+		BloodLocation = Head,
+		CanHaveHoles = false,
+        BiteDefense = 100,
+        ScratchDefense = 100,
+        ChanceToFall = 0,
+        Insulation = 0.8,
+        WindResistance = 0.8,
+	}
+}

@@ -1,0 +1,22 @@
+module Base
+{
+    item FutureJacket
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Future Jacket,
+        ClothingItem = FutureJacket,
+        BodyLocation = Jacket,
+        BloodLocation = Jacket,
+        Icon = FutureJacketIcon,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.95,
+        ScratchDefense = 20,
+        NeckProtectionModifier = 0.5,
+        Insulation = 0.40,
+        WindResistance = 0.2,
+        FabricType = Cotton,
+        Weight = 2,
+        WorldStaticModel = WeddingJacket_Ground,
+    }
+}

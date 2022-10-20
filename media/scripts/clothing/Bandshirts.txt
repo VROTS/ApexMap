@@ -1,0 +1,17 @@
+module Base
+{
+    item Bandshirt
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Djackz'Co Bandshirt,
+		ClothingItem = Bandshirt,
+		BodyLocation = ShortSleeveShirt,
+		Icon = DjackzzIcon,
+		BloodLocation = Shirt,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WorldStaticModel = TShirt_Ground,
+	}
+}

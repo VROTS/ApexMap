@@ -1,0 +1,28 @@
+module Base
+{
+        item SheriffEliBelt
+	{
+	    Type = Clothing,
+		DisplayName = Sheriff Eli's Belt,
+		ClothingItem = SheriffEliBelt,
+		BodyLocation = LowerBody,
+		Icon = SherrifEIcon,
+                CanBeEquipped = FannyPackFront,
+		CanHaveHoles = True,
+		BloodLocation = UpperLegs;Groin,
+		BiteDefense = 45,
+		ScratchDefense = 45,
+		BulletDefense = 70,
+		DisplayCategory = Armor,
+		Insulation = 0,
+		WaterResistance = 0,
+                Weight = 1,
+                Capacity	=	8,
+                OpenSound   =   Velcro,
+                CloseSound   =   VelcroClose,
+                PutInSound   =   PutItemInBag,
+	        ConditionLowerChanceOneIn = 15,
+        ConditionMax = 15,
+        RemoveOnBroken = false,
+    }
+}

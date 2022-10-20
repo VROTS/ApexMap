@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\SheriffEliVest</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\SheriffEliVest</m_FemaleModel>
+	<m_GUID>caf40ddf-8845-4ee5-8a54-4270781ab644</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>SheriffEliVest</textureChoices>
+</clothingItem>

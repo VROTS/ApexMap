@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\DisrespectMullet</m_MaleModel>
+	<m_FemaleModel>static\clothes\DisrespectMullet</m_FemaleModel>
+	<m_GUID>fc9b5cbf-e898-4724-8a55-65e233a909ea</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_HatCategory>nohairnobeard</m_HatCategory>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>DisrespectMullet</textureChoices>
+</clothingItem>

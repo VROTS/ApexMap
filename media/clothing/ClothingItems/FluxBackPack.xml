@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\backpacks\FluxBackPack</m_MaleModel>
+	<m_FemaleModel>skinned\backpacks\FluxBackPack</m_FemaleModel>
+	<m_GUID>0aba0b9c-05c6-44d4-a760-8dcfeca1675c</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>FluxBackPack</textureChoices>
+</clothingItem>

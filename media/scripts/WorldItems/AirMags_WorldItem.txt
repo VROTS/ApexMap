@@ -1,0 +1,17 @@
+module Base
+{
+        model AirMags_WorldItem
+    {
+        mesh = WorldItems/AirMags_WorldItem,
+        texture = AirMags,
+        scale = 1,
+    }
+item AirMags_WorldItem
+    {
+        Weight    =    1,
+        Type    =    Normal,
+        DisplayName    =    Air Mags
+        Icon    =    SpiffoXL,
+        WorldStaticModel = AirMags_WorldItem
+    }
+}

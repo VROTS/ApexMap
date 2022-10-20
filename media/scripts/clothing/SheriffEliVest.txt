@@ -1,0 +1,21 @@
+module Base
+{
+    item SheriffEliVest
+    {
+        Type = Clothing,
+        DisplayName = Sheriff Eli Vest,
+        ClothingItem = SheriffEliVest,
+        BodyLocation = TorsoExtra,
+        Weight	= 5,
+        Icon	= SherrifEIcon,
+        BloodLocation = ShirtNoSleeves; Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.95,
+        Insulation = 0.65,
+        WindResistance = 0.30,
+        BiteDefense = 90,
+        ScratchDefense = 80,
+BulletDefense = 150,
+WorldStaticModel = SheriffEliVest
+    }
+}

@@ -1,0 +1,19 @@
+module Base
+{
+        item DisrespectMullet
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Dr Disrespect's Mullet,
+		ClothingItem = DisrespectMullet,
+		BodyLocation = Hat,
+		Icon = DisrespectIcon,
+		BloodLocation = Head,
+		CanHaveHoles = false,
+        BiteDefense = 100,
+        ScratchDefense = 100,
+        ChanceToFall = 0,
+        Insulation = 0.8,
+        WindResistance = 0.8,
+	}
+}

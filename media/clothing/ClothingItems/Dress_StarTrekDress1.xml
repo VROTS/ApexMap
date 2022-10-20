@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>269f3f92-1ccf-4718-8e19-d900b5d02c9c</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_BaseTextures>clothes\dress_textures\Dress_StarTrekDress1</m_BaseTextures>
+	<m_BaseTextures>clothes\dress_textures\Dress_StarTrekDress2</m_BaseTextures>
+	<m_BaseTextures>clothes\dress_textures\Dress_StarTrekDress3</m_BaseTextures>
+</clothingItem>

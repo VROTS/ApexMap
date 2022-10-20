@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\RoboCopHelmet</m_MaleModel>
+	<m_FemaleModel>static\clothes\RoboCopHelmet</m_FemaleModel>
+	<m_GUID>767794d3-9a20-4c85-9613-6d8c71da7acc</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_HatCategory>nohairnobeard</m_HatCategory>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>RoboCopHelmet</textureChoices>
+</clothingItem>

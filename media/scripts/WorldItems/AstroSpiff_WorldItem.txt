@@ -1,0 +1,18 @@
+module Base
+{
+        model AstroSpiff_WorldItem
+    {
+        mesh = WorldItems/AstroSpiff_WorldItem,
+        texture = WorldItems/AstroSpiff,
+        scale = 1,
+    }
+ item AstroSpiff_WorldItem
+    {
+        Weight    =    1,
+        Type    =    Normal,
+        DisplayName    =    Astro Spiffo,
+        Icon    =    SpiffoXL,
+        WorldStaticModel = AstroSpiff_WorldItem
+    }
+
+}

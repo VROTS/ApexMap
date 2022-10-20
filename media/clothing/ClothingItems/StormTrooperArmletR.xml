@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\StormTrooperArmletR</m_MaleModel>
+	<m_FemaleModel>static\clothes\StormTrooperArmletR</m_FemaleModel>
+	<m_GUID>c4b67642-1166-4974-a6a3-e0ae24dbf86e</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_R_Forearm</m_AttachBone>
+	<textureChoices>StormTrooperArmletR</textureChoices>
+</clothingItem>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fileGuidTable>
+
+<!-- Christmas Island Items -->
+	<files>
+		<path>media/clothing/clothingItems/Hat_SantaHAt.xml</path>
+		<guid>498c460c-cef2-4e76-a784-6252bd218e02</guid>
+	</files>
+
+	<files>
+		<path>media/clothing/clothingItems/Hat_SantaHAtGreen.xml</path>
+		<guid>bf681ec8-a092-4aa0-8f52-10665a25f1c3</guid>
+	</files>
+
+	<files>
+		<path>media/clothing/clothingItems/JacketLong_Santa.xml</path>
+		<guid>c423a3bb-d01b-40cc-bb27-ba615a51941f</guid>
+	</files>
+
+	<files>
+		<path>media/clothing/clothingItems/JacketLong_SantaGreen.xml</path>
+		<guid>1cb0dd48-3578-435e-8677-2b9fa6d8e3f3</guid>
+	</files>
+
+	<files>
+		<path>media/clothing/clothingItems/Trousers_Santa.xml</path>
+		<guid>f35d7354-2ccd-4329-97ab-8dd4947b667a</guid>
+	</files>
+
+	<files>
+		<path>media/clothing/clothingItems/Trousers_SantaGReen.xml</path>
+		<guid>0718a5ec-3a83-4868-b42b-5ac979a328e7</guid>
+	</files>
+
+	<files>
+		<path>media/clothing/clothingItems/Shoes_BlackBoots.xml</path>
+		<guid>2717dfdb-49ef-401a-9715-c4487ce6abea</guid>
+	</files>
+
+	<files>
+		<path>media/clothing/clothingItems/Gloves_LongWomenGloves.xml</path>
+		<guid>9c36a162-1348-46ad-81bd-70bf3ed7a93e</guid>
+	</files>
+
+	<files>
+		<path>media/clothing/clothingItems/Hat_HardHat.xml</path>
+		<guid>523b2893-137b-44bc-b3f6-ba2c9d42d488</guid>
+	</files>
+
+	<files>
+		<path>media/clothing/clothingItems/Hat_Antlers.xml</path>
+		<guid>80afaa0d-02d7-44bb-b86b-a19333f03d4f</guid>
+	</files>
+
+	<files>
+		<path>media/clothing/clothingItems/Bag_ALICEpack_Army.xml</path>
+		<guid>e5e131ff-bc65-4b94-9bc1-b70e8f99e68d</guid>
+	</files>
+
+	<files>
+		<path>media/clothing/clothingItems/Hat_Army.xml</path>
+		<guid>9709be80-dbd9-4f98-90a6-aaab8e87cd28</guid>
+	</files>
+
+	<files>
+		<path>media/clothing/clothingItems/Glasses_Aviators.xml</path>
+		<guid>6b01e5b3-860d-4361-b43f-7b8ea152f1bf</guid>
+	</files>
+
+	<files>
+		<path>media/clothing/clothingItems/Necklace_DogTag.xml</path>
+		<guid>88321000-2b08-4537-9c51-4b5eca360c92</guid>
+	</files>
+
+	<files>
+		<path>media/clothing/clothingItems/Hat_SantaHAt.xml</path>
+		<guid>498c460c-cef2-4e76-a784-6252bd218e02</guid>
+	</files>
+
+	<files>
+		<path>media/clothing/clothingItems/JacketLong_Santa.xml</path>
+		<guid>c423a3bb-d01b-40cc-bb27-ba615a51941f</guid>
+	</files>
+
+	<files>
+		<path>media/clothing/clothingItems/Trousers_Santa.xml</path>
+		<guid>f35d7354-2ccd-4329-97ab-8dd4947b667a</guid>
+	</files>
+
+<!-- Pitstop Items -->
+	<files>
+		<path>media/clothing/clothingItems/CleanUpKrewJumpsuit.xml</path>
+		<guid>1a95a0a4-ba88-4e88-8189-dfd2c9cf962d</guid>
+	</files>
+
+	<files>
+		<path>media/clothing/clothingItems/Shoes_CleanUpKrewSneakers.xml</path>
+		<guid>3cb9f7cc-9911-4791-ba4e-b8cc92e14afe</guid>
+	</files>
+
+	<files>
+		<path>media/clothing/clothingItems/KleanBackPack.xml</path>
+		<guid>8b3f943c-e903-431b-bf8d-8f2eb86c9ef3</guid>
+	</files>
+
+<!-- Expanded Pitstop Items -->
+	<files>
+		</path>media/clothing/clothingItems/StormTrooperHelmet.xml</path>
+		</guid>61db3098-783c-43bb-ae94-6b7def741ea9</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/AlienBackPack.xml</path>
+		</guid>4649828e-db8c-4c38-a72d-768b3ccb4860</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/AlienCap.xml</path>
+		</guid>34b3a635-8206-407f-836f-4f315a74fae1</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/FluxBackPack.xml</path>
+		</guid>0aba0b9c-05c6-44d4-a760-8dcfeca1675c</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/AstroHelmet.xml</path>
+		</guid>94ea0998-dd31-4958-8053-88749aaf3255</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/SpaceHelmet.xml</path>
+		</guid>62c8d65b-d434-4a6b-97b8-acc48443996b</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/AstroSuit.xml</path>
+		</guid>ab725954-15f2-4767-96bd-aad4a37b228a</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/AstronautSuit.xml</path>
+		</guid>170c3140-793f-498f-ae1d-1fbb735cc454</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/StormTrooperHelmet.xml</path>
+		</guid>61db3098-783c-43bb-ae94-6b7def741ea9</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/StormTrooperArmor.xml</path>
+		</guid>abdf27fe-4211-4754-88c9-9b5a3a069d2d</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/Bandshirt.xml</path>
+		</guid>ddfc0388-ef62-4abf-a744-a60eaf368d74</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/SheriffEliVest.xml</path>
+		</guid>caf40ddf-8845-4ee5-8a54-4270781ab644</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/DisrespectVest.xml</path>
+		</guid>02a690a7-2aad-47c1-8572-a9333ac081ce</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/DarthVaderHelmet.xml</path>
+		</guid>ef7f14a9-de8e-4834-a3ef-bdaec9baf694</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/ScifiHelmet01.xml</path>
+		</guid>14a0f93f-8f59-463a-b768-8deef830a238</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/DisrespectMullet.xml</path>
+		</guid>fc9b5cbf-e898-4724-8a55-65e233a909ea</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/MedievalHelmet.xml</path>
+		</guid>3485f31f-f1e5-4c05-9cdd-214936864607</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/SheriffEliHat.xml</path>
+		</guid>a9cebd10-6b94-45c4-b832-6e3bebdbecc1</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/RoboCopHelmet.xml</path>
+		</guid>767794d3-9a20-4c85-9613-6d8c71da7acc</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/StormTrooperShoulders.xml</path>
+		</guid>a54924ae-6660-4fda-b404-6a39432f581d</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/StormTrooperArmletL.xml</path>
+		</guid>451d3558-14dd-41f6-846d-a5472d5f188a</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/StormTrooperArmletR.xml</path>
+		</guid>c4b67642-1166-4974-a6a3-e0ae24dbf86e</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/StormTrooperElbowPads.xml</path>
+		</guid>b0b35a49-82dc-4425-b6c2-2033126c1b2a</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/Shirt_StarTrekShirt1.xml</path>
+		</guid>995cc269-8621-4a63-a8f6-08cf6482af7d</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/Dress_StarTrekDress1.xml</path>
+		</guid>269f3f92-1ccf-4718-8e19-d900b5d02c9c</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/StormtrooperBelt.xml</path>
+		</guid>a4ec5c3c-b09e-4892-b0ca-f4c3409a15b7</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/SheriffEliBelt.xml</path>
+		</guid>7f212bf3-f165-4716-850e-6a81f2061ece</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/Shoes_StormTrooperBoots.xml</path>
+		</guid>76e1749e-8397-419c-b0e3-c1b3b887a700</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/PowerArmor.xml</path>
+		</guid>1f6080aa-bb75-46ee-8473-5a26a3fa0855</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/Shoes_AirMags.xml</path>
+		</guid>dff2fb9a-5950-4705-8719-59fb82ee8a4a</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/AirMags.xml</path>
+		</guid>6ab7e64b-cac5-4083-98ee-7a00bca36f7a</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/StormTrooperLegs.xml</path>
+		</guid>29b9eccd-6a22-4b67-a710-a4b252117f2d</guid>
+	</files>
+
+	<files>
+		</path>media/clothing/clothingItems/FutureJacket.xml</path>
+		</guid>1802efdf-e435-4dc2-a8fb-480a7604812e</guid>
+	</files>
+
+</fileGuidTable>

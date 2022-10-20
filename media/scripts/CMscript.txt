@@ -1,0 +1,17 @@
+module CM
+{
+imports
+{
+Base
+}
+
+
+item brickstoy1
+{
+	Type		=	Moveable,
+	Weight		=	.5,
+	Icon		=	bricksicon1,
+	DisplayName	=	Bricks Toy,
+
+}
+}

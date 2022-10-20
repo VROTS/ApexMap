@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>2995cc269-8621-4a63-a8f6-08cf6482af7d</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_BaseTextures>clothes\shirt_tshirt_textures\Shirt_StarTrekShirt1</m_BaseTextures>
+    <m_BaseTextures>clothes\shirt_tshirt_textures\Shirt_StarTrekShirt2</m_BaseTextures>
+	<m_BaseTextures>clothes\shirt_tshirt_textures\Shirt_StarTrekShirt3</m_BaseTextures>
+</clothingItem>

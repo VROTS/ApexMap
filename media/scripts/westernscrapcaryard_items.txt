@@ -1,0 +1,59 @@
+module mymod
+{
+	imports
+	{
+		Base,
+	}
+	item LargeFreezer
+	{
+		Type 		= Moveable,
+		Icon 		= LargeFreezer,
+		Weight 		= 25.0,
+		DisplayName 		= LargeFreezer,
+		WorldObjectSprite 		= LargeFreezer_01_0,
+	}
+	item LargeFreezer1/2
+	{
+		Type 		= Moveable,
+		Icon 		= LargeFreezer,
+		Weight 		= 25.0,
+		DisplayName 		= LargeFreezer1/2,
+		WorldObjectSprite 		= LargeFreezer_01_1,
+	}
+	item LargeFreezer2/2
+	{
+		Type 		= Moveable,
+		Icon 		= LargeFreezer,
+		Weight 		= 25.0,
+		DisplayName 		= LargeFreezer2/2,
+		WorldObjectSprite 		= LargeFreezer_01_0,
+	}
+	recipe MakeLargeFreezer1/2
+	{
+		keep WeldingMask,
+		keep Saw,
+		SmallSheetMetal=4,
+		SheetMetal=4,
+		BlowTorch=25,
+		WeldingRods=10,
+		ElectronicsScrap=8,
+		Result 		: LargeFreezer1/2,
+		SkillRequired 	: MetalWelding=3,
+		Time 		: 4000.0,
+		Category:Engineer,
+	}
+	recipe MakeLargeFreezer2/2
+	{
+		keep WeldingMask,
+		keep Saw,
+		SmallSheetMetal=4,
+		SheetMetal=4,
+		BlowTorch=25,
+		WeldingRods=10,
+		ElectronicsScrap=8,
+		Result 		: LargeFreezer2/2,
+		SkillRequired 	: MetalWelding=3,
+		Time 		: 4000.0,
+		Category:Engineer,
+	}
+}

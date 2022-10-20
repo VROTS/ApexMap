@@ -1,0 +1,19 @@
+module Base
+{
+        item MedievalHelmet
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Medieval Helmet,
+		ClothingItem = MedievalHelmet,
+		BodyLocation = Hat,
+		Icon = HelmetCrash,
+		BloodLocation = Head,
+		CanHaveHoles = false,
+        BiteDefense = 100,
+        ScratchDefense = 100,
+        ChanceToFall = 0,
+        Insulation = 0.8,
+        WindResistance = 0.8,
+	}
+}

@@ -1,0 +1,17 @@
+objects = {
+  { name = "", type = "Vegitation", z = 0, geometry = "polygon", points = { 12000, 11101, 12000, 11169, 12159, 11170, 12172, 11159, 12177, 11130, 12184, 11113, 12173, 11101 } },
+  { name = "", type = "Forest", z = 0, geometry = "polygon", points = { 12000, 11235, 12000, 11327, 12067, 11318, 12088, 11306, 12101, 11286, 12124, 11281, 12145, 11257, 12165, 11250, 12179, 11234, 12289, 11234, 12298, 11221, 12041, 11221 } },
+  { name = "", type = "Forest", z = 0, geometry = "polygon", points = { 12300, 11101, 12209, 11101, 12209, 11132, 12215, 11159, 12254, 11163, 12300, 11161 } },
+  { name = "", type = "Forest", z = 0, geometry = "polygon", points = { 12000, 11101, 12173, 11101, 12173, 11088, 12028, 11088, 12028, 10846, 12150, 10846, 12161, 10845, 12170, 10863, 12168, 10881, 12175, 10891, 12188, 10900, 12191, 10976, 12206, 10987, 12226, 10995, 12227, 11028, 12231, 11048, 12227, 11090, 12225, 11101, 12300, 11101, 12300, 10800, 12000, 10800 } },
+  { name = "", type = "ParkingStall", x = 12153, y = 11040, z = 0, width = 24, height = 5, properties = { Direction = "N" } },
+  { name = "", type = "ParkingStall", x = 12153, y = 11034, z = 0, width = 24, height = 5, properties = { Direction = "S" } },
+  { name = "", type = "ParkingStall", x = 12153, y = 11018, z = 0, width = 24, height = 5, properties = { Direction = "N" } },
+  { name = "", type = "ParkingStall", x = 12153, y = 11012, z = 0, width = 24, height = 5, properties = { Direction = "S" } },
+  { name = "", type = "ParkingStall", x = 12153, y = 11056, z = 0, width = 24, height = 5, properties = { Direction = "S" } },
+  { name = "", type = "ParkingStall", x = 12153, y = 11062, z = 0, width = 24, height = 5, properties = { Direction = "N" } },
+  { name = "sport", type = "ParkingStall", x = 12121, y = 10946, z = 0, width = 3, height = 5, properties = { Direction = "N", FaceDirection = true } },
+  { name = "sport", type = "ParkingStall", x = 12121, y = 10958, z = 0, width = 3, height = 5, properties = { Direction = "N", FaceDirection = true } },
+  { name = "sport", type = "ParkingStall", x = 12121, y = 10940, z = 0, width = 3, height = 5, properties = { Direction = "N", FaceDirection = true } },
+  { name = "sport", type = "ParkingStall", x = 12121, y = 10934, z = 0, width = 3, height = 5, properties = { Direction = "N", FaceDirection = true } },
+  { name = "sport", type = "ParkingStall", x = 12121, y = 10952, z = 0, width = 3, height = 5, properties = { Direction = "N", FaceDirection = true } },
+}

@@ -1,0 +1,17 @@
+module Base
+{
+        item SheriffEliHat
+    {
+        DisplayCategory = Accessory,
+        Type = Clothing,
+        DisplayName =  Sheriff Eli's Hat,
+        ClothingItem =  SheriffEliHat,
+        BodyLocation = Hat,
+        Icon = SherrifEIcon,
+        IconsForTexture =  SheriffEliHat,
+        CanHaveHoles = false,
+        ChanceToFall = 60,
+        Insulation = 0.10,
+        Weight = 0.5,
+    }
+}

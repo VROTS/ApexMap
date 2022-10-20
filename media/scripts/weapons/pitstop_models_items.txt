@@ -1,0 +1,93 @@
+module Base
+{
+    
+model TheZapper
+    {
+        mesh = weapons/firearm/TheZapper,
+    }
+model JeanBeanWand
+    {
+        mesh = weapons/1handed/JeanBeanWand,
+    }
+model JadeCandyCane
+    {
+        mesh = weapons/2handed/JadeCandyCane,
+    }
+model MndoBrush
+    {
+        mesh = weapons/1handed/MndoBrush,
+    }
+model MP5HK
+    {
+        mesh = weapons/firearm/MP5HK,
+    }
+model GhostTrap
+    {
+        mesh = weapons/firearm/GhostTrap,
+    }
+model E11Blaster
+    {
+        mesh = weapons/firearm/E11Blaster,
+    }
+model CyberPistol
+    {
+        mesh = weapons/firearm/CyberPistol,
+    }
+model FutureRevolver
+    {
+        mesh = weapons/firearm/FutureRevolver,
+    }
+model HoverboardMelee
+    {
+        mesh = weapons/2handed/HoverboardMelee,
+    }
+model M41APulseRifle
+    {
+        mesh = weapons/firearm/M41APulseRifle,
+    }
+model FutureAssaultRifle
+    {
+        mesh = weapons/firearm/FutureAssaultRifle,
+    }	
+model StormTrooperGround
+    {
+        mesh = WorldItems/StormTrooperGround,
+        texture = StormTrooperArmor
+    }
+model FutureShotgun
+    {
+        mesh = weapons/firearm/FutureShotgun,
+    }
+model BuckRogersGun
+    {
+        mesh = weapons/firearm/BuckRogersGun,
+    }
+model Lightsaber01
+    {
+        mesh = weapons/2handed/Lightsaber01,
+    }
+model Lightsaber02
+    {
+        mesh = weapons/2handed/Lightsaber02,
+    }	
+model Lightsaber03
+    {
+        mesh = weapons/2handed/Lightsaber03,
+    }
+model SausageWeapon
+    {
+        mesh = weapons/2handed/SausageWeapon,
+    }
+model EnergySword
+    {
+        mesh = weapons/1handed/EnergySword,
+    }							
+model DjackzVinyl
+    {
+        mesh = weapons/1handed/DjackzVinyl,
+    }
+model Boltgun
+    {
+        mesh = weapons/firearm/Boltgun,
+    }						
+}

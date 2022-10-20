@@ -1,0 +1,23 @@
+module Base
+{
+    item FluxBackPack
+    {
+        DisplayCategory = Bag,
+        Type = Container,
+        DisplayName = Flux Back Pack,
+        ClothingItem = FluxBackPack,
+        CanBeEquipped = Back,
+        WeightReduction	=	100,
+        Weight	=	2,
+        Capacity	=	40,
+        Icon	=	FluxBackPack,
+        OpenSound   =   OpenBag,
+        CloseSound   =   CloseBag,
+        PutInSound   =   PutItemInBag,
+        BloodLocation = Bag,
+        RunSpeedModifier = 0.94,
+        CanHaveHoles = false,
+        AttachmentReplacement = Bag,
+        WorldStaticModel = ALICE_Pack_Ground,
+    }
+}

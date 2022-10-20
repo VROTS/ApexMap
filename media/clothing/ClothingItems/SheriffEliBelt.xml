@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\SheriffEliBelt</m_MaleModel>
+	<m_FemaleModel>static\clothes\SheriffEliBelt</m_FemaleModel>
+	<m_GUID>7f212bf3-f165-4716-850e-6a81f2061ece</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Pelvis</m_AttachBone>
+	<textureChoices>SheriffEliBelt</textureChoices>
+</clothingItem>

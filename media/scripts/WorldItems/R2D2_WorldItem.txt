@@ -1,0 +1,18 @@
+module Base
+{
+        model R2D2_WorldItem
+    {
+        mesh = WorldItems/R2D2_WorldItem,
+        texture = WorldItems/R2D2,
+        scale = 1,
+    }
+ item R2D2_WorldItem
+    {
+        Weight    =    1,
+        Type    =    Normal,
+        DisplayName    =    R2D2 Figurine,
+        Icon    =    SpiffoXL,
+        WorldStaticModel = R2D2_WorldItem
+    }
+
+}

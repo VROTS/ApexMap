@@ -1,0 +1,16 @@
+module Base
+{
+        item AlienCap
+    {
+        DisplayCategory = Accessory,
+        Type = Clothing,
+        DisplayName = Alien Cap,
+        ClothingItem = AlienCap,
+        BodyLocation = Hat,
+        IconsForTexture = AlienCap,
+        CanHaveHoles = false,
+        ChanceToFall = 60,
+        Insulation = 0.10,
+        Weight = 0.5,
+    }
+}

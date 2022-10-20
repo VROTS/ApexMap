@@ -1,0 +1,31 @@
+module Base
+{
+    item Shirt_StarTrekShirt1
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Star Hike Shirt,
+		ClothingItem = Shirt_StarTrekShirt1,
+		BodyLocation = Shirt,
+		Icon = StarTrekIcon,
+		BloodLocation = ShirtLongSleeves,
+        Insulation = 0.2,
+        WindResistance = 0.2,
+        FabricType = Cotton,
+        WorldStaticModel = Shirt_Ground,
+	}
+    item Dress_StarTrekDress1
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Star Hike Dress,
+        ClothingItem = Dress_StarTrekDress1,
+        BodyLocation = Dress,
+        BloodLocation = ShortsShort;Shirt,
+        Icon = StarTrekIcon,
+        Insulation = 0.15,
+        WindResistance = 0.1,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Short_Ground,
+    }
+}

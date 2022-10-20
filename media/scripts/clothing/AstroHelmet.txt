@@ -1,0 +1,19 @@
+module Base
+{
+        item AstroHelmet
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Astro Helmet,
+		ClothingItem = AstroHelmet,
+		BodyLocation = Hat,
+		Icon = NasaIcon,
+		BloodLocation = Head,
+		CanHaveHoles = false,
+        BiteDefense = 100,
+        ScratchDefense = 100,
+        ChanceToFall = 0,
+        Insulation = 0.8,
+        WindResistance = 0.8,
+	}
+}

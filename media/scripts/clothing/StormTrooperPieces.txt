@@ -1,0 +1,142 @@
+module Base
+{		
+	item StormTrooperArmletL
+	{
+	Type = Clothing,
+	DisplayName = Storm Trooper Left Armlet,
+	ClothingItem = StormTrooperArmletL,
+	BodyLocation = LeftArmArmor,
+	BloodLocation = Jacket,
+	Icon = StormTrooperIcon,
+	ScratchDefense = 15,
+    BiteDefense = 22,
+    Weight = 0.3,
+    Insulation = 0,
+    WindResistance = 0,
+	}
+	
+	item StormTrooperArmletR
+	{
+	Type = Clothing,
+	DisplayName = Storm Trooper Right Armlet,
+	ClothingItem = StormTrooperArmletR,
+	BodyLocation = RightArmArmor,
+	BloodLocation = Jacket,
+	Icon = StormTrooperIcon,
+	ScratchDefense = 15,
+    BiteDefense = 22,
+    Weight = 0.3,
+    Insulation = 0,
+    WindResistance = 0,
+	}
+    item StormTrooperArmor
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Storm Trooper Armor,
+        ClothingItem = StormTrooperArmor,
+        BodyLocation = TorsoExtra,
+        BloodLocation = ShirtNoSleeves,
+        Icon = StormTrooperIcon,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.95,
+        ScratchDefense = 20,
+        NeckProtectionModifier = 0.5,
+        Insulation = 0.40,
+        WindResistance = 0.2,
+        FabricType = Cotton,
+        Weight = 2,
+        WorldStaticModel = StormTrooperGround,
+    }
+    item StormTrooperBelt
+	{
+	    Type = Clothing,
+		DisplayName = Storm Trooper Belt,
+		ClothingItem = StormTrooperBelt,
+		BodyLocation = LowerBody,
+		Icon = StormTrooperIcon,
+		CanHaveHoles = True,
+		BloodLocation = UpperLegs;Groin,
+		BiteDefense = 45,
+		ScratchDefense = 45,
+		BulletDefense = 70,
+		DisplayCategory = Armor,
+		Insulation = 0,
+		WaterResistance = 0,
+        Weight = 2.6,
+		ConditionLowerChanceOneIn = 15,
+        ConditionMax = 15,
+        RemoveOnBroken = false,
+		Tooltip = Tooltip_ScrapKilt,
+		Tags = MetalArmor,
+    }
+    item StormTrooperHelmet
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Storm Trooper Helmet,
+		ClothingItem = StormTrooperHelmet,
+		BodyLocation = Hat,
+		Icon = StormTrooperIcon,
+		BloodLocation = Head,
+		CanHaveHoles = false,
+        BiteDefense = 100,
+        ScratchDefense = 100,
+        ChanceToFall = 0,
+        Insulation = 0.8,
+        WindResistance = 0.8,
+    }
+    item StormTrooperShoulders
+	{
+		Type = Clothing,
+		DisplayName = Storm Trooper Shoulders,
+		ClothingItem = StormTrooperShoulders,
+		BodyLocation = Tail,
+		BloodLocation = UpperArms,
+		Icon = StormTrooperIcon,
+		ConditionLowerChanceOneIn = 50,
+        ConditionMax = 22,
+        RemoveOnBroken = true,
+		CombatSpeedModifier = 0.95,
+        ScratchDefense = 30,
+        BiteDefense = 20,
+		Weight = 1,
+    }
+ item Shoes_StormTrooperBoots
+	{
+	Type = Clothing,
+	DisplayName = Storm Trooper Boots,
+	ClothingItem = Shoes_StormTrooperBoots,
+	BodyLocation = Shoes,
+	BloodLocation = Shoes,
+	Icon = StormTrooperIcon,
+	StompPower = 2.0,
+	ConditionLowerChanceOneIn = 13,
+        ConditionMax = 25,
+        RunSpeedModifier = 1.1,
+        RemoveOnBroken = false,
+        ScratchDefense = 100,
+        BiteDefense = 100,
+        Insulation = 0.9,
+        WindResistance = 0.45,
+        WaterResistance = 0.45,
+		FabricType = Leather,
+	}
+ item StormTrooperLegs
+    {
+       DisplayCategory = Clothing,		
+        Type = Clothing,
+        DisplayName = Storm Trooper Pants,
+        ClothingItem = StormTrooperLegs,
+        BodyLocation = Pants,
+        Icon = StormTrooperIcon,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.45,
+        WindResistance = 0.45,
+        FabricType = Denim,
+		WorldStaticModel = ShortShorts_Ground,
+       }
+}
+	

@@ -1,0 +1,399 @@
+module Base
+{
+    item BedfordFallsLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Map of Bedford Falls,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           BedfordFallsLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item BlackwoodLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Map of Blackwood,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           BlackwoodLootableMap,
+	WorldStaticModel = Map,
+    }
+
+	item BlueberryLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Map of Blueberry,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           BlueberryLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item ChernavilleLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Map of Chernaville,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           ChernavilleLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item ChinatownLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Map of Chinatown,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           ChinatownLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item CoryerdonLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Coryerdon,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           CoryerdonLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item EerieALootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Map Eerie part A,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           EerieALootableMap,
+    WorldStaticModel = Map,
+	}
+	
+    item EerieBLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Map Eerie part B,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           EerieBLootableMap,
+    WorldStaticModel = Map,
+	}
+	
+    item EerieCLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Map Eerie part C,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           EerieCLootableMap,
+    WorldStaticModel = Map,
+	}
+	
+    item EerieDLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Map Eerie part D,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           EerieDLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item FrankfortLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Map of Frankfort,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           FrankfortLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item GrapeseedLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Grapeseed,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           GrapeseedLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item GreenleafLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Greenleaf,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           GreenleafLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item HeavensHillLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Heaven's Hill,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           HeavensHillLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item HopewellLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Map of Hopewell,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           HopewellLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item KingsmouthLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Map of Kingsmouth,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           KingsmouthLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item LakeIvyTownshipLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Lake Ivy Township,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           LakeIvyTownshipLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item LittleTownshipLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Little Township,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           LittleTownshipLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item MarchRidgeExpansionLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    March Ridge Expansion,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           MarchRidgeExpansionLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item MonmouthCountyLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Monmouth County,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           MonmouthCountyLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item NewDenverLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    New Denver,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           NewDenverLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item NewEkronLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    New Ekron,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           NewEkronLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item OldPineVillageLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Old Pine Village,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           OldPineVillageLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item OldParkTownLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    OldPark Town,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           OldParkTownLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item OverTheRiverLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Over The River Area,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           OverTheRiverLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item PitstopLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Pitstop!,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           PitstopLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item RavenCreekLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Map of Raven Creek,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           RavenCreekLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item RedstoneRacewayLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    The Redstone Raceway,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           RedstoneRacewayLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item RefordvilleLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Map of Refordville,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           RefordvilleLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item RoseberyLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Map of Rosebery,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           RoseberyLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item SanctuaryLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Map of Sanctuary,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           SanctuaryLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item SilvertonLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Map of Silverton,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           SilvertonLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item TugalandLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Map of Tugaland,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           TugalandLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item WesternTownLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Western Town,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           WesternTownLootableMap,
+	WorldStaticModel = Map,
+    }
+
+    item WildberriesLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=		    Map of Wildberries,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map                 =           WildberriesLootableMap,
+	WorldStaticModel = Map,
+    }
+	
+    item RabbitHashLootableMap
+    {
+	DisplayCategory = Cartography,
+        Type				=			Map,
+        DisplayName			=			Map of Rabbit Hash,
+        Icon				=			Map,
+        Weight				=			0.1,
+        Map					=			RabbitHashLootableMap,
+	WorldStaticModel = Map,
+    }
+
+}

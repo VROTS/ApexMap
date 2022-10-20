@@ -1,0 +1,18 @@
+module Base
+{
+        model Lightsaber_WorldItem
+    {
+        mesh = WorldItems/Lightsaber_WorldItem,
+        texture = WorldItems/Lightsaber,
+        scale = 1,
+    }
+ item Lightsaber_WorldItem
+    {
+        Weight    =    1,
+        Type    =    Normal,
+        DisplayName    =    Lightsaber Prop,
+        Icon    =    SpiffoXL,
+        WorldStaticModel = Lightsaber_WorldItem
+    }
+
+}

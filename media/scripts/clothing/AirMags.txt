@@ -1,0 +1,24 @@
+module Base
+{
+     item AirMags
+	{
+	Type = Clothing,
+	DisplayName = Air Mags,
+	ClothingItem = AirMags,
+	BodyLocation = Shoes,
+	BloodLocation = Shoes,
+	Icon = AirmagsIcon,
+	StompPower = 2.0,
+	ConditionLowerChanceOneIn = 13,
+        ConditionMax = 25,
+        RunSpeedModifier = 1.1,
+        RemoveOnBroken = false,
+        ScratchDefense = 100,
+        BiteDefense = 100,
+        Insulation = 0.9,
+        WindResistance = 0.45,
+        WaterResistance = 0.45,
+		FabricType = Leather,
+        WorldStaticModel = AirMags_WorldItem,
+	}
+}
